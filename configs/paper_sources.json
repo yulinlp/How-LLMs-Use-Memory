@@ -1,0 +1,19 @@
+{
+  "rpeval": {
+    "revision": "0f8bce80a03e6b86426485264b14ae7de49cc8f9",
+    "files": {
+      "prompts/prompts.py": "9fad5448c295e3c6c901e0e88c1a8a43a6ada8402ecb3795671ee4cbd25be309",
+      "prompts/prompts_715.py": "7e544d510e90515bedf60607f23e1a186342805bec53cb905c16e289ce46e0e1",
+      "benchmark_dataset/implicit_preference/single_testset.json": "3b7cd0ae6977d9abc207a0206bc0a38dd9bb0a7a38f881c0a597732da234beb4",
+      "benchmark_dataset/implicit_preference/multi_testset.json": "112bac9cda0e6393b92b3710d7461c1c4671b3ede25ed0d5fc2a8d8848c85762"
+    }
+  },
+  "steem": {
+    "revision": "fd3e20057a3c6359e1399cbc0258903803ee30d1",
+    "files": {
+      "data_pipeline/context_merge/all_contexts.json.gz": "88849b96b793c9c9dfe93ca35a31071456456c08ffcf5ca9f1cd3497ff033ab8",
+      "memory_control_method/sft_rewrite/control_instruct.json": "6a144c2838bd9b614801d5668a29b5574b41ed6ae28dc63a57288441ae1f04b0",
+      "memory_control_method/rubrics/dependence_rubrics_text.py": "d84066e8a1b52ab491fe5fbb89367823ea1d370a1c7c0fec532e567d0335397b"
+    }
+  }
+}

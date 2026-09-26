@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated experiment artifacts.
+data/*.jsonl
+runs/
+
+# Local model/cache/env files.
+.env
+.venv/
+.venv*/
+models/
+
+# Private workspace artifacts.
+archive/
+logs/
+wheels/
+.deps/
+.runtime/
+.claude/
+docs/
+data/
+*.zip
+*.err
+*.out
+*.log
+*.aux
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.egg-info/
