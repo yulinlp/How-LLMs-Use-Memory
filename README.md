@@ -4,7 +4,7 @@
 
 ## How Do Language Models Use Memory?<br>From Internal Strategy Readout to Adaptive Control
 
-![ICLR 2027](https://img.shields.io/badge/ICLR_2027-Under_review-315EA8)
+![ICLR 2027 · Under Review](https://img.shields.io/badge/ICLR_2027-Under_Review-315EA8?style=flat-square)
 [![GitHub stars](https://img.shields.io/github/stars/yulinlp/How-LLMs-Use-Memory?style=social)](https://github.com/yulinlp/How-LLMs-Use-Memory)
 [![Last commit](https://img.shields.io/github/last-commit/yulinlp/How-LLMs-Use-Memory)](https://github.com/yulinlp/How-LLMs-Use-Memory/commits)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](#installation)
